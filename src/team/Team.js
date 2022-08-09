@@ -1,7 +1,7 @@
 import './Team.css';
-import linked from '../../assets/Main/linkedin.png';
-import git from '../../assets/Main/github.png';
-import mail from '../../assets/Main/mail.png';
+import linked from '../assets/linkedin.png';
+import git from '../assets/github.png';
+import mail from '../assets/mail.png';
 
 function Team(props) {
     return (
